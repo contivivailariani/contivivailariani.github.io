@@ -30,7 +30,7 @@ a{
 }
 .site-title{
 	margin: 0;
-	font-size: 4em;
+	font-size: 3em;
 	text-align: center;
 }
 
@@ -253,6 +253,11 @@ a {
 		padding: 6px 13px;
 		border: 1px solid #ddd;
 	}
+        .noborder {
+            table, th, td {
+                border: none;
+            }
+        }
 }
 
 .posts{
