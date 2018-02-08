@@ -6,24 +6,22 @@ priority: 1.0
 changefreq: weekly
 ---
 
-Gentile Cliente
+Un vivaio non nasce da un progetto a tavolino, ma da una visione. Sorge da un
+accenno di idea, un pensiero che matura costantemente, insegue sogni,
+acquisisce nozioni, si arricchisce di nuove competenze e capacità... Nascono
+così i nuovi **vivai Lariani** monocolturali di **Conti Davide**, situati ad
+**Albese con Cassano**, in provincia di Como.
 
-certi di fare cosa gradita, visto l’imminente arrivo della nuova stagione,
-vorremmo farle conoscere la produzione di Taxus Baccata in coltivazione presso
-il nuovo vivaio monocolturale CONTI di Albese con Cassano (CO). 
+La produzione è mirata allo sviluppo ingegnerizzato di [*Taxus
+Baccata*](/taxus.html), scegliendo accuratamente ogni elemento della
+coltivazione, sia in vaso che in zolla.
 
-                                        
-La costante ricerca dell’ottimizzazione dei fattori agronomici influenti nella
-coltivazione unite al clima lariano, con le sue estati fresche mitigate dal
-lago e dalla posizione ai piedi delle prealpi, permettono di proporre articoli
-di elevata qualità a un costo che sarà sicuramente di vostro interesse.
+La costante ricerca dell'ottimizzazione dei fattori agronomici influenti
+nella coltivazione unite al clima lariano, con le sue estati fresche mitigate
+dal lago e dalla posizione ai piedi delle prealpi, permettono di proporre
+articoli di elevata qualità a un costo sicuramente interessante.
 
-Nella speranza che quanto sopra sia di vostro gradimento, a disposizione per
-eventuali chiarimenti o integrazioni di materiale fotografico, si resta in
-attesa di vostre notizie in merito.
-
-Cordiali saluti
-
-Davide Conti
+Non esitate a [contattarci](/contatti.html) per ogni genere di informazione,
+e, se potete, passate a conoscerci di persona!
 
 <div style="text-align:center"><img src="/img/taxus2.png" ></div>
