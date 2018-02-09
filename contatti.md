@@ -13,14 +13,11 @@ Vivai Lariani di Conti Davide
 
 Conti Davide  
 Albese con Cassano (CO)  
-Telefono:  
-e-mail:   
-P.I.:  
-RUP:   
-
-Q: Metto questi dati pubblici??
-
-Q: Vuoi mettere la posizione esatta del vivaio qui nella mappa??
+Telefono: 320 0558323  
+e-mail: davideconti79@libero.it  
+pec: davideconti79@pec.it  
+P.I.: 02730620131  
+RUP: 03/1670  
 
 <style>
   #map {
